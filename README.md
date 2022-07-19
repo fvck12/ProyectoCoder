@@ -1,2 +1,2 @@
 # ProyectoCoder
-Proyecto de ejemplo de playgrond para el curso de python
+Proyecto de ejemplo de playgrond para el curso de python con Django
